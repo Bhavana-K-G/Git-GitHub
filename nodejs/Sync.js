@@ -1,7 +1,7 @@
 //sync 
 const fs=require('fs')
-let data=fs.readFileSync('data.txt','utf-8')
-console.log(data)
+let data1=fs.readFileSync('data.txt','utf-8')
+console.log(data1)
 
 //read and write sync 
 const fs=require('fs')
