@@ -95,12 +95,12 @@ else {
 /*let a = 30;
 let b = 60;
 let c = 10;
-if (a>b && a>c){
+if ((a>b && a>c),a>=b){
     if(b>c){
     console.log(a+","+b+","+c)
 }
 }
-else if(b>a && b>c){
+else if((b>a && b>c)b>=c){
     if(a>c){
     console.log(a+","+b+","+c)
 }
